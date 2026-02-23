@@ -8,7 +8,7 @@
     "plugin",
     "configuration"
   ],
-  "authors":[
+  "authors": [
     {
       "name": "Forum One",
       "email": "wordpress@forumone.com",
@@ -22,9 +22,9 @@
       "name": "Tim Nolte",
       "homepage": "https://github.com/timnolte"
     },
-		{
-			"name": "Deanna Steers",
-			"email": "dsteers@forumone.com"
+    {
+      "name": "Deanna Steers",
+      "email": "dsteers@forumone.com"
     }
   ],
   "homepage": "https://github.com/forumone/wp-cfm-dist",
@@ -53,7 +53,7 @@
   },
   "require": {
     "php": ">=7.4",
-    "symfony/yaml": "^5.4"
+    "symfony/yaml": "^3.4 || ^4.4 || ^5.4"
   },
   "require-dev": {
     "php": ">=7.4",
